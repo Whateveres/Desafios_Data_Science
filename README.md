@@ -1,5 +1,5 @@
-#Course: Data Science Bootcamp
-#Orgainzation: Desafío Latam
+Course: Data Science Bootcamp
+Orgainzation: Desafío Latam
 
 Intensive course designed for participants to acquire the skills to perform data analysis regardless of its nature, implementing descriptive and predictive models. 
 
